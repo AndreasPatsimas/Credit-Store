@@ -1,0 +1,5 @@
+name,username,password,role
+Iris online,iris_web_app,test123!@#,OPERATOR
+Iris mobile,iris_mobile_app,test124!@#,OPERATOR
+Viva wallet,viva_wallet_app,tset321#@!,OPERATOR
+Balance Admin,balance_admin,superAdmin123!@#,ADMIN
